@@ -1,1 +1,1 @@
-https://github.com/kirillustork/ono_tebe_nado.git
+https://github.com/kirillustork/ono-tebe-nado.git
